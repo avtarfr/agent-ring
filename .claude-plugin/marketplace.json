@@ -1,0 +1,17 @@
+{
+  "name": "agent-ring",
+  "description": "Agent Ring: live multi-agent ideation panels for Claude Code, visualised on localhost.",
+  "owner": {
+    "name": "avtarfr",
+    "url": "https://github.com/avtarfr"
+  },
+  "plugins": [
+    {
+      "name": "agent-ring",
+      "source": "./",
+      "description": "Run a live ideation panel of 3 to 12 subagents that brainstorm and debate in rounds, watched as pixel critters on a ring in a local browser page.",
+      "category": "productivity",
+      "tags": ["brainstorming", "ideation", "multi-agent"]
+    }
+  ]
+}

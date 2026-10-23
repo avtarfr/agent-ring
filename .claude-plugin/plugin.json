@@ -1,0 +1,14 @@
+{
+  "name": "agent-ring",
+  "displayName": "Agent Ring",
+  "version": "0.1.0",
+  "description": "Run a live ideation panel of 3 to 12 subagents that brainstorm and debate in rounds, watched as pixel critters on a ring in a local browser page.",
+  "author": {
+    "name": "avtarfr",
+    "url": "https://github.com/avtarfr"
+  },
+  "homepage": "https://github.com/avtarfr/agent-ring",
+  "repository": "https://github.com/avtarfr/agent-ring",
+  "license": "MIT",
+  "keywords": ["brainstorming", "ideation", "multi-agent", "panel", "debate", "visualiser"]
+}
